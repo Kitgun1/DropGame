@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 937f511d53334cbb85b7c9607694eebb, type: 3}
+  m_Name: Hotbar
+  m_EditorClassIdentifier: 
+  Tittle: Hotbar
+  Size: {x: 5, y: 5}
+  _cellTemplate: {fileID: 6402288227625372116, guid: feeb4b388e0878b4d808aadfda91b0ae, type: 3}
+  _itemTemplate: {fileID: 1276943214652347563, guid: 692d13c3b6fd07940aaca07e66227f17, type: 3}
